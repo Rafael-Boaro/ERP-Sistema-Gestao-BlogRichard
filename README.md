@@ -14,22 +14,22 @@ Abaixo estão evidenciadas as quatro principais camadas operacionais do sistema 
 ### 1. Camada de Autenticação (Segurança de Borda)
 A primeira linha de defesa do ecossistema. Implementa rotas protegidas e tratamento rigoroso de sessões para impedir acessos não autorizados.
 
-![Tela de Login](login.png)
+![Tela de Login](login.PNG)
 
 ### 2. O Cérebro do Sistema (Dashboard Analítico)
 Painel consolidado que consome consultas complexas do banco de dados em tempo real, transformando linhas de registros em totalizadores estratégicos para os gestores.
 
-![Dashboard Principal](dashboard.png)
+![Dashboard Principal](dashboard.PNG)
 
 ### 3. Controle de Acesso Baseado em Perfis (RBAC - Role-Based Access Control)
 Módulo avançado de gerenciamento de usuários. Permite atribuir papéis específicos (Admin, Operador, Auditor) mitigando riscos de segurança e vazamento de dados de acordo com as diretrizes de governança.
 
-![Gerenciar Usuários](gerenciar.png)
+![Gerenciar Usuários](gerenciar.PNG)
 
 ### 4. Orquestração de Regras de Negócio (Módulo CRUD)
 Interface de manipulação de dados estruturada com validação pesada no back-end. Impede a inserção de dados corrompidos e lida com dados complexos como controle de inventário e códigos de barras.
 
-![Adicionar Produto](crud.png)
+![Adicionar Produto](crud.PNG)
 
 ---
 
