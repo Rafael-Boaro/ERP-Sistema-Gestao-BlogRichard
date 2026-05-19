@@ -54,6 +54,7 @@ Para evitar o gargalo clássico de lentidão no painel administrativo, o banco d
 ### 🛡️ 3. Validação e Higienização de Dados (Sanitização)
 Nenhum dado inserido pelo usuário é considerado confiável. Todos os formulários (como o cadastro de novos itens) passam por um pipeline de validação que verifica tipos de dados, tamanhos de strings e impede vulnerabilidades como injeções maliciosas na persistência de dados.
 
+- **Site:** [Blog-ERP-Richard](https://profrichard.com.br/Tcc_Prof_richard/HomePage/index.php)
 ---
 
 ## 📬 Contato Técnico
