@@ -27,7 +27,7 @@ Módulo avançado de gerenciamento de usuários. Permite atribuir papéis espec�
 ![Gerenciar Usuários](gerenciar.PNG)
 
 ### 4. Orquestração de Regras de Negócio (Módulo CRUD)
-Interface de manipulação de dados estruturada com validação pesada no back-end. Impede a inserção de dados corrompidos e lida com dados complexos como controle de inventário.
+Interface de manipulação de dados estruturada com validação pesada no back-end. Impede a inserção de dados corrompidos e lida com dados complexos como controle de matérias.
 
 ![Adicionar Produto](crud.PNG)
 
